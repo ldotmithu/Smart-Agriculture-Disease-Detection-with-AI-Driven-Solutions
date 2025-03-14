@@ -58,6 +58,11 @@ Farmers and agriculturists struggle with identifying plant diseases early, which
 ## 📜 License
 This project is licensed under the **MIT License**.
 
+## Demo 
+<img width="1303" alt="Screenshot 2025-03-14 at 13 32 12" src="https://github.com/user-attachments/assets/5a1ddee7-9dbd-44fc-b903-0dcbc756e37f" />
+<img width="1303" alt="Screenshot 2025-03-14 at 13 32 22" src="https://github.com/user-attachments/assets/292ffb89-87c6-4692-bf43-2a5c9ad2dbc9" />
+
+
 ---
 🌍 **Empowering farmers with AI-driven plant health insights!**
 
