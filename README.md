@@ -29,10 +29,9 @@ Farmers and agriculturists struggle with identifying plant diseases early, which
    pip install -r requirements.txt
    ```
 3. **Set up API keys:**
-   - Create a `.streamlit/secrets.toml` file.
+   - Create a `.env` file.
    - Add your Groq API key:
-     ```toml
-     [secrets]
+     ```env
      groq_api_key = "your_groq_api_key"
      ```
 4. **Run the application:**
