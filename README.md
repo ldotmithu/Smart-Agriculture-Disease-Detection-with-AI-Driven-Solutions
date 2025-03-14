@@ -21,8 +21,8 @@ Farmers and agriculturists struggle with identifying plant diseases early, which
 ## 🛠️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/plant-disease-detection.git
-   cd plant-disease-detection
+   git clone [https://github.com/ldotmithu/Smart-Agriculture-Disease-Detection-with-AI-Driven-Solutions.git]
+   cd Smart-Agriculture-Disease-Detection-with-AI-Driven-Solutions
    ```
 2. **Install dependencies:**
    ```bash
